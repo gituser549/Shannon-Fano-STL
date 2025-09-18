@@ -1,6 +1,6 @@
 # Shannon-Fano-STL
 
-This repository contains my realization of Shannon-Fano coding algorithms. 
+This repository contains my implementation of Shannon-Fano coding algorithms. 
 Project was made with the using of STL, lambda functions, functors and special data-structures.
 
 This is project is a console application which make full-cycle (coding and decoding) text files. Works with .txt and .bin formats. 
