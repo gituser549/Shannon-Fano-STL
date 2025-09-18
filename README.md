@@ -3,7 +3,7 @@
 This repository contains my implementation of Shannon-Fano coding algorithms. 
 Project was made with the using of STL, lambda functions, functors and special data-structures.
 
-This is project is a console application which makes full-cycle (coding and decoding) text files. Works with .txt and .bin formats. 
+This is project is a console application which makes full-cycle (coding and decoding) coding text files. Works with .txt and .bin formats. 
 
 **You can build this project using this command:** `make CXXFLAGS="-std=c++14 -O3 -march=native -flto -DNDEBUG"` when you are in the same directory as the project.
 
